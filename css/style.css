@@ -1440,6 +1440,7 @@ pre code {
 }
 code {
   font-family: "Fira Code", "Menlo", "Meslo LG", monospace;
+  font-size: 18px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
   border: 1px dotted #666;
