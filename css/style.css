@@ -416,14 +416,14 @@
   width: 100%;
   border-collapse: collapse;
   text-align: left;
-  font-size: 12px;
+  font-size: 16px;
 }
 .content th {
   padding: 8px;
   border-bottom: 1px dashed $color-code-border;
   color: #111;
   font-weight: bold;
-  font-size: 13px;
+  font-size: 17px;
 }
 .content td {
   padding: 9px 8px 0;
@@ -474,7 +474,7 @@ body {
   background-color: #e2e0de;
   color: #363533;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   font-family: "Menlo", "Meslo LG", monospace;
   line-height: 1.725;
   text-rendering: geometricPrecision;
