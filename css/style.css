@@ -1439,10 +1439,11 @@ pre code {
   border: none;
 }
 code {
-  padding: 0 5px;
-  border: 1px dotted #666;
-  border-radius: 2px;
+  font-family: "Menlo", "Meslo LG", monospace;
   -webkit-border-radius: 2px;
+  border-radius: 2px;
+  border: 1px dotted #666;
+  padding: 0 5px;
 }
 .highlight {
   overflow-x: auto;
