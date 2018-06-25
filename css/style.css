@@ -475,7 +475,7 @@ body {
   color: #363533;
   font-weight: 400;
   font-size: 18px;
-  font-family: "Menlo", "Meslo LG", monospace;
+  font-family: "FiraCode", "Menlo", "Meslo LG", monospace;
   line-height: 1.725;
   text-rendering: geometricPrecision;
   -moz-osx-font-smoothing: grayscale;
